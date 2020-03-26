@@ -1,0 +1,5 @@
+knex -> modulo para comunicar com qualquer banco de dados
+
+sqlite3 -> driver especifico para banco sqlite3, a ser integrado ao modulo de comunicação para bancos
+
+npx knex init -> gera um arquivo knexfile.js
